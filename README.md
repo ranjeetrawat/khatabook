@@ -1,2 +1,2 @@
 # khatabook
-Android Application which helps you ot maintain your account.
+Android Application which helps you to maintain your account.
